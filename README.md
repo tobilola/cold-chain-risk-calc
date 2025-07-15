@@ -1,5 +1,7 @@
 # 🧊 Smart Cold Chain Risk Calculator
 
+![App Screenshot](app_screenshot.png)
+
 A Digital Health Solution to safeguard temperature-sensitive health shipments across global cold chain networks.
 
 ## 🔍 Overview
