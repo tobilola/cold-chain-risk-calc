@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: cold-chain-risk-calculator
+    env: python
+    buildCommand: ""
+    startCommand: streamlit run cold_chain_risk_calculator.py --server.port=10000
+    plan: free
